@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jimbijwaard
 - 👀 I’m interested in Full-stack development and data science
-- 🌱 I’m currently learning building microservices with Java and Kotlin
+- 🌱 I’m currently experimenting with OpenAI APIs, Langchain and many other novelties
 - 💞️ I’m looking to collaborate on fun projects where I can learn something new
 
 <!---
